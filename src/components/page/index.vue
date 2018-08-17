@@ -78,7 +78,7 @@ export default {
 }
 </script>
 
-<style scoped lang='scss'>
+<style scoped lang='less'>
 .item-page {
   text-align: center;
   margin:0 auto;
