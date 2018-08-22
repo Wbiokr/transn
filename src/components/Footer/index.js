@@ -1,3 +1,3 @@
-import Footer from '../Layout/footer.vue'
+import Footer from './footer.vue'
 
 export default Footer
