@@ -1,6 +1,6 @@
 {
   "name": "transn",
-  "version": "1.6.10",
+  "version": "1.6.12",
   "description": "传神语联网公司内部项目共享组件",
   "main": "./dist/",
   "author": "陈博先",
@@ -44,5 +44,13 @@
     "sass-loader": "^7.1.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2"
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not ie < 9",
+    "last 15 versions",
+    "> 1%",
+    "iOS 7",
+    "last 6 iOS versions"
+  ]
 }
